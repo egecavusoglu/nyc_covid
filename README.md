@@ -1,5 +1,6 @@
-# [NYC Metro Live COVID-19 Risks](https://washuvis.github.io/nyccovid/)
-![Milestone 2](https://washuvis.github.io/nyccovid/images/Milestone2.png "Milestone 2")
+# [NYC Metro Live COVID-19 Risks](https://egecavusoglu.github.io/nyc_covid/)
+
+<!-- ![Milestone 2](https://washuvis.github.io/nyccovid/images/Milestone2.png "Milestone 2") -->
 
 ### Team Members
 - Isaac Bock — isaactbock@wustl.edu - 466249
